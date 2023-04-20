@@ -7,7 +7,7 @@
 
 <div>
   <a hre="https://github.com/HigorCMartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorCMartins&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higorcmartins&show_icons=true&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
