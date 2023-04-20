@@ -1,4 +1,4 @@
-### ola sou o Higor 👋
+### Ola sou o Higor 👋
 
 
 - 🔭 Sou estudante de Analise e desinvolvimento de sistemas.
@@ -10,5 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorCMartins&show_icons=true&theme=radical">
 </div>
 
+ 
 
 
