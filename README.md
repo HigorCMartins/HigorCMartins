@@ -1,4 +1,4 @@
-### Ola sou o Higor 👋
+### Olá sou o Higor 👋
 
 
 - 🔭 Sou estudante de Analise e desinvolvimento de sistemas.
