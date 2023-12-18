@@ -1,14 +1,22 @@
-### Olá sou o Higor 👋
-
-
+<h1 align="center">
+Olá sou o Higor
+</h1>
+ 
 - 🔭 Sou estudante de Analise e desinvolvimento de sistemas.
-- 🌱 Estudando Front-end
+- 🌱 Estudando Python
 - ✉ Email: higorcosta1999@gmail.com
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HCM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HCM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="HCM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<h1 align="center">
+Tecnologias
+</h1>
+  
+<!--- skillicons --->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap" />
+  </a>
+</p>
+ 
+
 
 
