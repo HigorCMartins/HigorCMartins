@@ -3,7 +3,7 @@ Olá sou o Higor
 </h1>
  
 - 🔭 Sou estudante de Analise e desinvolvimento de sistemas.
-- 🌱 Estudando Python
+- 🌱 Estudando Python | JavaScript
 - ✉ Email: higorcosta1999@gmail.com
 
 <h1 align="center">
