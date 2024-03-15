@@ -13,7 +13,7 @@ Tecnologias
 <!--- skillicons --->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,python,js,html,css,figma,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,react,js,html,css,figma,bootstrap" />
   </a>
 </p>
  
